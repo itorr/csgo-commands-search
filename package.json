@@ -1,0 +1,22 @@
+{
+  "name": "csgo-commands-search",
+  "version": "1.0.0",
+  "description": "CSGO 控制台指令速查",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "node csv2json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itorr/csgo-commands-search.git"
+  },
+  "author": "itorr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itorr/csgo-commands-search/issues"
+  },
+  "homepage": "https://github.com/itorr/csgo-commands-search#readme",
+  "dependencies": {
+    "csv": "^5.3.2"
+  }
+}
